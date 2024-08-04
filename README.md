@@ -16,7 +16,3 @@ Engineering, Model Building and Model Testing. Use Natural Language Processing f
 analyzing the various core industries and group the business categories like Retail, Poultry,
 Agriculture, Manufacturing etc
 
-Results:
-Develop a dashboard app with streamlit using plotly to visualize the workers population of
-various industries with respect to various geographies and Analyze some Facts and Figures for
-the Business Proble
